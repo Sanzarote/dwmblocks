@@ -1,4 +1,4 @@
-This is the README from luke's dwmblocks, which this is a copy of.
+This is the README from luke's dwmblocks, which this is a near copy of.
 
 # dwmblocks
 
